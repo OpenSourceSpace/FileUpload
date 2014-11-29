@@ -1,3 +1,3 @@
 FileUpload
 ==========
-1. 基于apache的fileupload组件.
+1. 关于apache的fileupload组件,简单使用.
